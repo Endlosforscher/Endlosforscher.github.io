@@ -13,7 +13,7 @@
       <link>https://endlosforscher.github.io/posts/my-first-post/</link>
       <pubDate>Thu, 30 May 2024 14:07:16 +0200</pubDate>
       <guid>https://endlosforscher.github.io/posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
+      <description>Introduction :::info You are reading the documentation for Vue 3!&#xA;Vue 2 support has ended on Dec 31, 2023. Learn more about Vue 2 EOL. Upgrading from Vue 2? Check out the Migration Guide. ::: What is Vue? Vue (pronounced /vjuː/, like view) is a JavaScript framework for building user interfaces. It builds on top of standard HTML, CSS, and JavaScript and provides a declarative, component-based programming model that helps you efficiently develop user interfaces of any complexity.</description>
     </item>
   </channel>
 </rss>
