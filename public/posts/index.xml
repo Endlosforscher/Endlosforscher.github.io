@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Suex Framework</title>
-    <link>https://endlosforscher.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Suex Framework</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 May 2024 14:07:16 +0200</lastBuildDate>
-    <atom:link href="https://endlosforscher.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://endlosforscher.github.io/posts/my-first-post/</link>
+      <title>Install</title>
+      <link>http://localhost:1313/posts/install/</link>
       <pubDate>Thu, 30 May 2024 14:07:16 +0200</pubDate>
-      <guid>https://endlosforscher.github.io/posts/my-first-post/</guid>
-      <description>Introduction :::info You are reading the documentation for Vue 3!&#xA;Vue 2 support has ended on Dec 31, 2023. Learn more about Vue 2 EOL. Upgrading from Vue 2? Check out the Migration Guide. ::: What is Vue? Vue (pronounced /vjuː/, like view) is a JavaScript framework for building user interfaces. It builds on top of standard HTML, CSS, and JavaScript and provides a declarative, component-based programming model that helps you efficiently develop user interfaces of any complexity.</description>
+      <guid>http://localhost:1313/posts/install/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quick Start</title>
+      <link>http://localhost:1313/posts/quickstart/</link>
+      <pubDate>Thu, 30 May 2024 14:07:16 +0200</pubDate>
+      <guid>http://localhost:1313/posts/quickstart/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
